@@ -1,0 +1,12 @@
+.container1 {
+    position: fixed;
+    display:flex;
+}
+
+.container-login {
+    display: flex;
+}
+.user-icon {
+    width: 60px;
+    height: 60px;
+}
